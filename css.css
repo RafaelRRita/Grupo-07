@@ -1,46 +1,98 @@
-/* layout */
-html, body, #home {
-    height: 100%;
-    overflow-x:hidden ;
+/* Layout e design geral */
+* {
+    margin: 0;
+    padding: 0;
 }
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-attachment: fixed;
+}
 
-}
-nav.navbar-transparente{
-    padding: 15px 0px;;
-    background: rgba(0, 0, 0, 0.6);
-}
-.navbar-light .navbar-nav .nav-link{
-    color: white;
-}
-.navbar-light .navbar-nav .nav-link:hover{
-    color: aquamarine;
-}
-.navbar-light .navbar-toggler{
-    color: rgba(255, 255, 255, 0.5);
-}
 nav.navbar-transparente {
-	padding: 15px 0px;
-	background: rgba(0,0,0,0.6);
+    padding: 5px;
+    background: rgba(0, 0, 0, 0.6); /* Mantém a transparência */
+}
+
+.navbar-brand img {
+    height: 80px;
+    width: auto;  /* Ajusta a proporção da imagem */
 }
 
 .navbar-light .navbar-nav .nav-link {
-	color: white;
+    color: white;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-	color: #9bf0e1;
+    color: aquamarine;
 }
 
 .navbar-light .navbar-toggler {
-    color: rgba(255,255,255,.5);
-    border-color: rgba(255,255,255,0.5);
-}
-footer{
-    background: #000;
-    padding: 50px 0px 20px 0px;
-    position: relative;
+    color: rgba(255, 255, 255, 0.5);
 }
 
+/* Estilizando o input de busca */
+.form-inline .form-control {
+    width: 200px; /* Define a largura do campo de busca */
+    border-radius: 10px; /* Deixa o campo de busca com bordas arredondadas */
+    padding: 1rem;
+}
+
+.form-inline {
+    display: flex;
+    align-items: center;
+}
+
+/* Rodapé */
+footer {
+    /*border-top: 1px solid #fff;*/
+    background-color: #000;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-logo img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.footer-contact, .footer-social {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer-contact p, .footer-social p {
+    margin: 10px 0;
+}
+
+.footer-social {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-link {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-link img {
+    width: 100%;
+    height: 100%;
+}
+
+.social-link:hover {
+    transform: scale(1.1);
+}
