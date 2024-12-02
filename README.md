@@ -1,4 +1,4 @@
-#Projeto Integrador - Grupo 07 
+##Projeto Integrador - Grupo 07 
 Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Multiplataforma
 
 ---
