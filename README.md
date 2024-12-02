@@ -2,7 +2,7 @@
 Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Multiplataforma do 2º semestre de 2024
 
 ---
-#Índice
+# Índice
 - [1. _Sobre o projeto_](#1-sobre-o-projeto)
 - [2. _Tecnologias Utilizadas_](#2-tecnologias-utilizadas)
 - [3. _Acesso ao projeto_](#3-acesso)
