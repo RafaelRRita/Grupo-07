@@ -1,10 +1,10 @@
-##Projeto Integrador - Grupo 07 
-Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Multiplataforma
+# Projeto Integrador - Grupo 07 
+Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Multiplataforma do 2º semestre de 2024
 
 ---
 #Índice
 - [1. _Sobre o projeto_](#1-sobre-o-projeto)
-- [1. _Tecnologias Utilizadas_](#2-tecnologias-utilizadas)
+- [2. _Tecnologias Utilizadas_](#2-tecnologias-utilizadas)
 - [3. _Acesso ao projeto_](#3-acesso)
 - [3. _Integrantes_](#3-integrantes)
 
