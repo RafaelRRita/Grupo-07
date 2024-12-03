@@ -6,7 +6,7 @@ Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Mult
 - [1. _Sobre o projeto_](#1-sobre-o-projeto)
 - [2. _Tecnologias Utilizadas_](#2-tecnologias-utilizadas)
 - [3. _Acesso ao projeto_](#3-acesso)
-- [3. _Integrantes_](#3-integrantes)
+- [4. _Integrantes_](#3-integrantes)
 
 ---
 ## 1. Sobre o projeto 
@@ -25,7 +25,7 @@ Utilizamos
 Para obter acesso ao nosso projeto, sinta-se livre para baixar o código fonte nesse repertório, ou acesse esse link: [Maddock Store](https://cat-bounce.com)
 
 ---
-## 3. Integrantes
+## 4. Integrantes
  - [Eduardo Martins](https://github.com)
  - [Igor Santos](https://github.com)
  - [Luan Luiz](https://github.com)
