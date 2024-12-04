@@ -16,7 +16,7 @@ Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Mult
 O Projeto Interdisciplinar do Segundo Semestre do Curso de Desenvolvimento de Software Multiplataformas têm como objetivo a criação de um protótipo de aplicação web no estilo "e-commerce" para a Maddock Store, uma loja de roupas femininas que se encontra na cidade de Araras-SP.
 
 ## 2. Tecnologias Utilizadas 💻
-Utilizamos
+Utilizamos as seguintes tecnologias:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="100" />
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="100" />
@@ -29,8 +29,8 @@ Para obter acesso ao nosso projeto, sinta-se livre para baixar o código fonte n
 
 ---
 ## 4. Integrantes
- - [Eduardo Martins](https://github.com)
- - [Igor Santos](https://github.com)
- - [Luan Luiz](https://github.com)
- - [Rafael Rita](https://github.com)
- - [Vitor Hugo Pimenta de Almeida](https://github.com)
+ - [Eduardo Martins](https://github.com/Eduardo1Martins)
+ - [Igor Santos](https://github.com/IgoruSwan)
+ - [Luan Luiz](https://github.com/LuanLuiz)
+ - [Rafael Rita](https://github.com/RafaelRRita)
+ - [Vitor Hugo Pimenta de Almeida](https://github.com/Vitor-Pimenta)
