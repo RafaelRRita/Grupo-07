@@ -1,3 +1,6 @@
+# Maddock Store
+
+---
 # Projeto Integrador - Grupo 07 
 Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Multiplataforma do 2º semestre de 2024
 
