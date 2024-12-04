@@ -26,7 +26,6 @@ Utilizamos as seguintes tecnologias:
 ---
 ## 3. Acesso ao projeto 📁
 Para obter acesso ao nosso projeto, sinta-se livre para baixar o código fonte nesse repertório, ou acesse esse link: [Maddock Store](https://grupo07.freesite.online/htdocs/pi/index.html)
-Ou pelo link: 
 
 ---
 ## 4. Integrantes
