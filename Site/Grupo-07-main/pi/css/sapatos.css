@@ -1,0 +1,211 @@
+/* layout */
+html, body, #home {
+    height: 100%;
+    overflow-x:hidden ;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment: fixed;
+
+}
+.divisor {
+	width: 1px;
+	background: white;
+	margin: 12px 15px;
+}
+nav.navbar-transparente {
+	padding: 15px 0px;
+	background: rgba(0,0,0,0.6);
+}
+
+.navbar-brand img {
+    height: 85px;
+    width: auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #9bf0e1;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgba(255,255,255,0.5);
+}
+
+#produtos {
+	margin-top: 6rem;
+	margin-bottom: 3rem;
+	background-color: #f8f9fa; /* Cor de fundo para a seção de produtos */
+	padding: 50px 0;
+  }
+  
+  .produto-card {
+	margin-top: 2rem;
+	border: 1px solid #ddd; /* Borda leve */
+	border-radius: 8px; /* Cantos arredondados */
+	overflow: hidden; /* Garantir que o conteúdo não extrapole */
+	background-color: #ffffff; /* Fundo branco para o card */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+	transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  }
+  
+  .produto-card:hover {
+	transform: scale(1.05); /* Efeito de zoom ao passar o mouse */
+	box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Sombra aumentada */
+  }
+  
+  .produto-card img {
+	width: 100%; /* Preenche a largura do card */
+	height: 250px; /* Altura fixa */
+	object-fit: cover; /* Mantém proporção da imagem */
+  }
+  
+  .produto-info {
+	padding: 20px; /* Espaçamento interno */
+	text-align: center; /* Centraliza texto */
+  }
+  
+  .produto-nome {
+	font-size: 1.2em; /* Tamanho do título */
+	font-weight: bold; /* Texto em negrito */
+	color: #333; /* Cor do título */
+	margin-bottom: 10px;
+  }
+  
+  .produto-descricao {
+	font-size: 1em; /* Tamanho da fonte */
+	color: #666; /* Cor do texto */
+	margin-bottom: 15px;
+  }
+  .produto-preco {
+	font-size: 1.2em; /* Tamanho da fonte */
+	color: #666; /* Cor do texto */
+	font-weight: bold; /* Texto em negrito */
+	margin-bottom: 15px;
+  }
+  
+  .produto-info button {
+	display: inline-block;
+	padding: 10px 20px; /* Botão ajustado */
+	background-color: #007bff; /* Azul padrão Bootstrap */
+	border: none;
+	color: white;
+	font-size: 1em;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .produto-info button:hover {
+	background-color: #0056b3; /* Azul escuro no hover */
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+	.produto-card img {
+	  height: 200px; /* Reduz altura da imagem em telas menores */
+	}
+  
+	.produto-info button {
+	  font-size: 0.9em; /* Botão menor em telas pequenas */
+	}
+  }
+  
+
+footer {
+	background: #000;
+	padding: 50px 0px 20px 0px;
+	position: relative;
+}
+
+footer h4 {
+	color: #919496;
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+
+footer .navbar-nav a {
+	color: white;
+	font-size: 0.8em;
+}
+
+footer .navbar-nav a:hover {
+	color: #9bf0e1;
+	text-decoration: none;
+}
+
+footer ul {
+	list-style: none;
+}
+
+footer ul li {
+	float: right;
+	margin: 0 5px;
+}
+
+/* Tipografia
+-----------------------------*/
+h1 {
+	font-weight: 900;
+	letter-spacing: -0.05em;
+	margin-bottom: 50px;
+	color: white;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+
+h3 {
+	font-size: 2em;
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.btn-custom {
+		margin: 10px 15px;
+		font-size: 1em;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	h1 {
+		font-size: 3em;
+	}
+	.btn-custom {
+		margin: 10px 15px;
+	}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	h1 {
+		font-size: 4em;
+	}
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	h1 {
+		font-size: 5em;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	h1 {
+		font-size: 6em;
+	}
+}
