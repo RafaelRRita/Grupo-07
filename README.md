@@ -14,7 +14,6 @@ Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Mult
 ---
 ## 1. Sobre o projeto 
 O Projeto Interdisciplinar do Segundo Semestre do Curso de Desenvolvimento de Software Multiplataformas têm como objetivo a criação de um protótipo de aplicação web no estilo "e-commerce" para a Maddock Store, uma loja de roupas femininas que se encontra na cidade de Araras-SP.
-![](Site/Grupo-07-main/pi/imagem/ms (2).png)
 
 ## 2. Tecnologias Utilizadas 💻
 Utilizamos as seguintes tecnologias:
